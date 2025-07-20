@@ -6,7 +6,7 @@
 - 🎓 Computer Science student actively learning and building
 - 🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast  
 - 🧠 I love building full-stack apps and exploring new technologies
-- 💼 Currently building real-world projects using **MERN Stack**, **Next.js** and **OpenAI APIs**
+- 💼 Currently building real-world projects using **MERN Stack**, **REST APIs**, **Next.js** and **OpenAI APIs**
 - 🌱 Learning more about cloud services and Java Full Stack
 
 ---
@@ -29,21 +29,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Platforms:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
@@ -139,5 +139,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gurleenkaur0703&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenkaur0703&layout=compact&theme=radical" height="150"/>
 </p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gurleenkaur0703&theme=radical&hide_border=true" height="150"/>
+</p>
+
+
 ---
+
 ⭐ *Thanks for visiting my profile! Let's connect and build something awesome.*
