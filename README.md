@@ -122,7 +122,7 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gurleenkaur0703)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gurleen_kaur26)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gurleen_kaur26)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=webmoney&logoColor=white)](https://gurleenkaur26.netlify.app)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=webmoney&logoColor=white)](https://gurleenkaurportfolio.netlify.app)
 
 ---
 
