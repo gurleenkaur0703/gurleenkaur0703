@@ -1,17 +1,18 @@
-## Hi there 👋 I'm Gurleen Kaur
+## Hi there! I'm Gurleen Kaur
 ---
 
-### 👩‍💻 About Me
+### ABOUT ME
 
-- 🎓 Computer Science student actively learning and building
-- 🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast  
-- 🧠 I love building full-stack apps and exploring new technologies
-- 💼 Currently building real-world projects using **MERN Stack**, **REST APIs**, **Next.js** and **OpenAI APIs**
-- 🌱 Learning more about cloud services and Java Full Stack
+- Computer Science student actively learning and building
+- Passionate Full Stack Developer | Problem Solver | Tech Enthusiast  
+- I love building full-stack apps and exploring new technologies
+- Currently building real-world projects using **MERN Stack**, **REST APIs**, **Next.js** and **OpenAI APIs**
+- Learning more about cloud services and Java Full Stack
 
 ---
+---
 
-### 🔨 Tech Stack
+### TECH STACK
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -36,86 +37,118 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Tools & Platforms:**  
+**Tools & IDEs:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0095D5?style=flat&logo=netbeans&logoColor=white)
+
+**Data Analytics:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Deployment Platforms:**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E00?style=flat&logo=render&logoColor=white)
 
 ---
+---
+## EXPERIENCE
 
-### 💼 Projects
+### Summer Intern — Metacrafters (Jun 2024 - Aug 2024)  
+_Remote Internship_
 
-#### 🔹 [Mini CRM Platform](https://mini-crm-azure.vercel.app/)
+- Developed foundational skills in **JavaScript** and acquired practical understanding of **Solidity**.  
+- Gained hands-on experience through real-world project exposure and mentorship within the program.  
+- Worked with Solidity and JavaScript on blockchain-related projects.
+  
+---
+---
+
+### PROJECTS
+
+#### 🔹 [Mini CRM Platform](https://github.com/gurleenkaur0703/mini-crm) | [Live Demo](https://mini-crm-azure.vercel.app/)
 > Next.js | Node.js | Express.js | MongoDB | Tailwind | OpenAI
 
-- 🔍 Manage customers, orders, and segments
-- 📊 Rule-based campaign builder and delivery tracking
-- 🔐 Google OAuth login and secure routes
-- 📄 CSV export and AI-powered campaign messages
+- Manage customers, orders, and segments
+- Rule-based campaign builder and delivery tracking
+- Google OAuth login and secure routes
+- CSV export and AI-powered campaign messages
 
-#### 🔹 [TypeToolbox](https://typetoolbox.netlify.app/)
+#### 🔹 [TypeToolbox](https://github.com/gurleenkaur0703/text-app) | [Live Demo](https://typetoolbox.netlify.app)
 > React.js | Bootstrap | JavaScript
 
-- 📄 Text utilities: grammar check, sentiment analysis, text-to-speech
-- 📤 File upload (.txt, .pdf, .docx), PDF export, and theme toggle
-- 💻 Responsive UI for mobile & desktop
+- Text utilities: grammar check, sentiment analysis, text-to-speech
+- File upload (.txt, .pdf, .docx), PDF export, and theme toggle
+- Responsive UI for mobile & desktop
   
-#### 🔹 [Volleyball Game (C++ & SFML)](https://github.com/your-username/Volleyball-Game-using-SFML)
+#### 🔹 [Volleyball Game](https://github.com/your-username/Volleyball-Game-using-SFML)
 > C++ | SFML | CMake
 
-- 🏐 Realistic 2D game physics and AI bot
-- 🎮 Built with SFML and cross-platform setup
+- Realistic 2D game physics and AI bot
+- Built with SFML and cross-platform setup
 
 #### 🔹 [Music Store Analysis](https://github.com/gurleenkaur0703/Music_Store_Analysis)
 > MySQL | SQL | MySQL Workbench
 
-- 🎶 Simulated music store schema and analytics queries
-- 💸 Revenue by genre, top tracks, sales trends, customer insights
+- Simulated music store schema and analytics queries
+- Revenue by genre, top tracks, sales trends, customer insights
 
-#### 🔹 [Exploratory Data Analysis](https://github.com/gurleenkaur0703/Exploratory-Data-Analysis)
+#### 🔹 [Exploratory Data Analysis](https://github.com/gurleenkaur0703/Exploratory-Data-Analysis) | [Live Demo](https://christmas-sales-eda.streamlit.app)
 > Python | Pandas | NumPy | Matplotlib
 
-- 📊 Analyzed large datasets for trends & insights
-- 🧹 Cleaned and pre-processed data using Pandas
-- 📈 Visualized data with Matplotlib
+- Analyzed large datasets for trends & insights
+- Cleaned and pre-processed data using Pandas
+- Visualized data with Matplotlib
 
 #### 🔹 [Instagram Data Analysis](https://github.com/gurleenkaur0703/Music_Store_Analysis)
 > MySQL | Python | Pandas | Seaborn | Excel
 
-- 📷 Simulated Instagram DB: users, posts, likes, comments
-- 📉 Visualized engagement metrics and exported to Excel
+- Simulated Instagram DB: users, posts, likes, comments
+- Visualized engagement metrics and exported to Excel
 
 #### 🔹 [Group Chatting App](https://github.com/gurleenkaur0703/Group-chatting-application)
 > Java | Java Swing | Socket Programming
 
-- 💬 TCP/IP socket-based desktop chat app with GUI
-- 📡 Real-time broadcast & multi-client threading
+- TCP/IP socket-based desktop chat app with GUI
+- Real-time broadcast & multi-client threading
 
 ---
-
-### 🏅 Achievements
-
-- 🏆 Global Rank #89 – Women’s Day Coding Challenge 2025 (Naukri Campus)
-- 💼 Completed Deloitte Australia Tech Job Simulation (Forage)
-- 🥇 SQL "Master" – Code360 by Coding Ninjas
-- 🎓 Subject Topper – Informatics Practices (12th Boards)
-
 ---
 
-### 📜 Certifications
+### ACHIEVEMENTS
 
-- 🎓 *Programming Using Java* – Infosys Springboard (May 2025)  
-- 🐍 *Python Essentials 1* – Cisco Networking Academy (March 2025)  
-- 🧠 *SQL (Intermediate)* – HackerRank (Dec 2024)  
-- 🗄️ *Intro to Relational Databases* – Coursera (Feb 2024)
+- Awarded the Merit Certificate for outstanding performance in the Naukri Cmapus Young Turks 2025 competition.
+- Global Rank #89 – Women’s Day Coding Challenge 2025 (Naukri Campus)
+- Completed Deloitte Australia Tech Job Simulation (Forage)
+- SQL "Master" – Code360 by Coding Ninjas
+- Subject Topper – Informatics Practices (12th Boards)
 
 ---
+---
 
-### 📫 How to Reach Me
+### CERTIFICATIONS
+- *Node.js(Basic)* - HackerRank (Oct 2025)
+-	*React.js(Basic)* - HackerRank | (Sept 2025)
+- *Programming Using Java* – Infosys Springboard (May 2025)  
+- *Python Essentials 1* – Cisco Networking Academy (March 2025)  
+- *SQL (Intermediate)* – HackerRank (Dec 2024)  
+- *Blockchain Technology* – Metacrafters (Sep 2024)  
+- *CSS* – Great Learning (Jun 2024)  
+- *Front End Development - HTML* – Great Learning (Jun 2024)  
+- *Cloud Computing* – NPTEL (May 2024)  
+
+---
+---
+
+### PROFILES
 
 - [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gurleenkaur.gk03@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleenkaur0703)
@@ -125,13 +158,16 @@
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=webmoney&logoColor=white)](https://gurleenkaurportfolio.netlify.app)
 
 ---
+---
 
-### ✨ Fun Facts
+### INTERESTS
 
-- 🎯 I love solving coding problems and building structured UIs
-- ☕ Powered by chai, dance and curiosity
-- 📚 Always learning something new in tech!
+- I like building structured UIs
+- Love to explore different areas
+- Enthusiasm to dance
+- Always learning something new in tech!
 
+---
 ---
 
 <!-- GitHub Stats Cards -->
@@ -145,7 +181,7 @@
   <img src="https://streak-stats.demolab.com?user=gurleenkaur0703&theme=radical&hide_border=true" height="150"/>
 </p>
 
-
+---
 ---
 
 ⭐ *Thanks for visiting my profile! Let's connect and build something awesome.*
