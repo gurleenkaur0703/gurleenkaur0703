@@ -4,7 +4,8 @@
 ### ABOUT ME
 
 - Final-year **Computer Science Engineering** student (2026)
-- Interested in **Data Science, Analytics, and Data Engineering**
+- Interested in **Data Science, Analytics, Software and Data Engineering**
+- Currently exploring **how AI/ML works?**
 - Enjoy working with data end-to-end — from **cleaning and transforming datasets** to **analyzing patterns and generating insights**
 - Hands-on experience with **Python, SQL, and relational databases**
 - Strong foundation in **object-oriented programming**, with a data-first problem-solving mindset
@@ -57,17 +58,6 @@
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-
----
----
-## EXPERIENCE
-
-### Summer Intern — Metacrafters (Jun 2024 - Aug 2024)  
-_Remote Internship_
-
-- Developed foundational skills in **JavaScript** and acquired practical understanding of **Solidity**.  
-- Gained hands-on experience through real-world project exposure and mentorship within the program.  
-- Worked with Solidity and JavaScript on blockchain-related projects.
   
 ---
 ---
