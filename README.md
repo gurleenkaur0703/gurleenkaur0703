@@ -1,5 +1,4 @@
 ## Hi there! I'm Gurleen Kaur
----
 
 ### ABOUT ME
 
