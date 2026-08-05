@@ -23,11 +23,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Data Processing & Analytics:**  
+**Data Engineering, Processing & Analytics:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Visualization & Web Apps:**  
+**Visualization :**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A5A5A?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -38,6 +38,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Core Concepts:**  
+![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=flat)
+![OOPs](https://img.shields.io/badge/OOPs-00599C?style=flat)
+![DSA](https://img.shields.io/badge/DSA-0769AD?style=flat)
 
 ---
 ---
@@ -112,9 +117,9 @@
 
 ### CURRENT FOCUS
 
-- Building **end-to-end ETL pipelines and relational data warehouse architectures**
+- Practising **end-to-end ETL pipelines and relational data warehouse architectures**
 - Mastering **advanced SQL optimization, CTEs, and window functions**
-- Expanding practical experience with **cloud data platforms and containerization**
+- Exploring cloud data warehousing with **Snowflake & cloud data platforms**
 - Preparing for **Data Engineering and Data Analytics** engineering roles
 
 ---
