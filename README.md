@@ -121,13 +121,16 @@
 ---
 ---
 
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Activity Graph (High-Reliability Endpoint) 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurleenkaur0703&show_icons=true&theme=radical&count_private=true" height="165" alt="Gurleen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenkaur0703&layout=compact&theme=radical" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurleenkaur0703&theme=react-dark&hide_border=true" width="100%" alt="Gurleen's GitHub Activity Graph" />
 </p>
-
-<!-- GitHub Streak Stats (Using High-Uptime Alternative) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurleenkaur0703&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurleenkaur0703&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gurleenkaur0703&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EF2B3&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+awesome!;Have+a+great+day!+%E2%9C%A8" alt="Thank You Animation" />
 </p>
