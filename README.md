@@ -4,10 +4,10 @@
 ### ABOUT ME
 
 - **Computer Science Engineering** graduate (2026)
-- Interested in **Data Engineering, Analytics, Software and Data Science**.
+- Interested in **Data Engineering, Software, Analytics, and Data Science**.
 - Currently exploring **how data pipeline works?**
-- Enjoy working with data end-to-end — from **cleaning and transforming datasets** to **analyzing patterns and generating insights**.
-- Hands-on experience with ****
+- Enjoy working with data end-to-end — from **cleaning** to **optimizing complex SQL queries for performance metrics**.
+- Hands-on experience with **Ingesting raw, unorganized datasets and transforming them into analytics-ready models**.
 - Strong foundation in **C++, Python, SQL, object-oriented programming, and relational databases**.
 
 ---
@@ -77,24 +77,24 @@
 ---
 ---
 
-### ACHIEVEMENTS
+### ACHIEVEMENTS & PUBLICATIONS
 
-- Awarded the Merit Certificate for outstanding performance in the Naukri Cmapus Young Turks 2025 competition.
-- Global Rank #89 – Women’s Day Coding Challenge 2025 (Naukri Campus)
-- Competed in Accelerate Her in Tech - A Student Hackathon.
-- Selected as one of the winners in Analytics Vidhya Data Analyst Skill Test.
-- Subject Topper – Informatics Practices (12th Boards)
+- **Research Publication & Presentation:** Co-authored and presented research paper *"Precision Ranking: Harnessing NLP and Normalization for Enhanced Rating and Review Analysis"* at the 12th IEEE-sponsored ICETET SIP-25 Conference (Aug 2025).
+- **Global Rank #89:** Secured Top 100 standing out of thousands of participants in the Women’s Day Coding Challenge 2025 hosted by Naukri Campus.
+- **Naukri Campus Young Turks 2025:** Awarded Merit Certificate for top performance in nation-wide technical assessment.
+- **Data Analytics Winner:** Selected as a top performer in the Analytics Vidhya Data Analyst Skill Assessment.
+- **Academic Excellence:** Subject Topper in Informatics Practices (12th CBSE Board Examinations).
 
 ---
 ---
 
-### CERTIFICATIONS'
-- *OOPs in C++* – Coding Ninjas (October 2025) 
-- *Python Essentials 1* – Cisco Networking Academy (March 2025)  
-- *SQL (Intermediate)* – HackerRank (Dec 2024)
-- *OOPs in C++* – Coding Ninjas (October 2025)  
-- *RDBMS* – Coursera (March 2024) 
-- *Cloud Computing* – NPTEL (May 2024)  
+### CERTIFICATIONS
+
+- **OOPs in C++** – Coding Ninjas (Oct 2025)
+- **Python Essentials 1** – Cisco Networking Academy (Mar 2025)  
+- **SQL (Intermediate)** – HackerRank (Dec 2024)  
+- **Cloud Computing** – NPTEL (May 2024)  
+- **RDBMS** – Coursera (Mar 2024) 
 
 ---
 ---
@@ -104,33 +104,30 @@
 - [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gurleenkaur.gk03@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurleenkaur0703)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gurleenkaur0703)
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gurleen_kaur26)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gurleen_kaur26)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gurleen_kaur26)
+- [![Unstop](https://img.shields.io/badge/Unstop-1C4980?style=flat&logo=unstop&logoColor=white)](https://unstop.com/u/gurlekau48086)
 
 ---
 ---
 
-### Current Focus
-- Strengthening **SQL and data modeling fundamentals**
-- Building **analytics and data engineering projects**
-- Learning **cloud data platforms and BI concepts**
-- Preparing for **Data Science / Analytics / Data Engineering** roles
+### CURRENT FOCUS
+
+- Building **end-to-end ETL pipelines and relational data warehouse architectures**
+- Mastering **advanced SQL optimization, CTEs, and window functions**
+- Expanding practical experience with **cloud data platforms and containerization**
+- Preparing for **Data Engineering and Data Analytics** engineering roles
 
 ---
 ---
 
-<!-- GitHub Stats Cards -->
+<!-- GitHub Stats & Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurleenkaur0703&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenkaur0703&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gurleenkaur0703&show_icons=true&theme=radical&count_private=true" height="165" alt="Gurleen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenkaur0703&layout=compact&theme=radical" height="165" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Using High-Uptime Alternative) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gurleenkaur0703&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurleenkaur0703&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
-
----
----
-
-⭐ *Thanks for visiting my profile! Let's connect and build something awesome.*
